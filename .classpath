@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.8.0_131"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="E:/X24/Nouveau dossier/Pro 3/showboard_2.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/E:/X24/Nouveau%20dossier/Pro%203/showboard.doc.jar!/doc"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
